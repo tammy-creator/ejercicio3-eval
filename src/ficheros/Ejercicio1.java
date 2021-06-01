@@ -7,7 +7,7 @@ public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		File file;
+		File file; 
 		Scanner s = new Scanner(System.in);
 		System.out.println("Ruta: ");
 		file = new File (s.nextLine());	
