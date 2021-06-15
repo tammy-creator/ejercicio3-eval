@@ -1,0 +1,4 @@
+Nombre fichero: ejercicio4.txt
+Número de caracteres: 1659312
+Número de palabras: 424340
+Número de líneas: 37861
